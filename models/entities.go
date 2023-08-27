@@ -9,3 +9,13 @@ type Solid interface {
 	Area() float64
 	Volume() float64
 }
+
+////////////////////////////////////////////////////////////////////////////////////////////
+//-> Constructors					|
+/////////////////					V
+
+func LoadShape() (shp []Shape) {
+
+	return
+}
+
